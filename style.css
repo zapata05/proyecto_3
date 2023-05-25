@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: red;
+}
+.head{
+background: #415e9b;
+height: 82px;
+border:  2px solid black;
+}
+
+.cabeza{
+
+}
