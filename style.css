@@ -3,14 +3,26 @@
     padding: 0;
 }
 body{
+    text-align: center;
+    width: 100%;
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+ background: linear-gradient(white, #D3D8E8);
     background: red;
 }
-.head{
-background: #415e9b;
-height: 82px;
-border:  2px solid black;
+.parte_arriba{
+    width:100%;
+    min-width:980px;
+    background-color:#4c66a4;
+   }
+.cuerpo{
+        width:980px;
+        margin:0px auto;
+        padding:0px;
+        height:85px;
 }
-
-.cabeza{
-
-}
+.cuerpo li{
+    list-style-type:none;
+    float:left;
+    text-align:left;
+    background-color:white;
+   }
